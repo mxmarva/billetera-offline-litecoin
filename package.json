@@ -1,0 +1,32 @@
+{
+  "name": "liteaddress.org",
+  "version": "2.9.8",
+  "description": "Open Source JavaScript Client-Side Litecoin Wallet Generator",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-combine": "~0.8.3",
+    "grunt-lineending": "~0.2.4"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-combine": "~0.8.3",
+    "grunt-lineending": "~0.2.4"
+  },
+  "scripts": {
+    "test": "",
+    "build": "bunx grunt-cli"
+  },
+  "repository": {
+    "url": "https://github.com/litecoin-project/liteaddress.org.git"
+  },
+  "keywords": [
+    "litecoin address wallet generator"
+  ],
+  "author": "pointbiz",
+  "license": "MIT",
+  "readmeFilename": "README",
+  "bugs": {
+    "url": "https://github.com/pointbiz/bitaddress.org/issues"
+  }
+}
